@@ -6,7 +6,7 @@ Ce projet représente la **première version** de mon site portfolio personnel. 
 
 👉 [Cliquez ici pour visiter le site](https://saiftriki.github.io/portfolio-v1/)
 
-<a href="https://saiftriki.github.io/portfolio-v1" target="_blanc">test </a>
+<a href="https://saiftriki.github.io/portfolio-v1" target="_blank">test </a>
 ## 📌 Objectif de ce projet 
 
 Ce portfolio m’a permis de :
