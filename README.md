@@ -4,7 +4,7 @@ Ce projet représente la **première version** de mon site portfolio personnel. 
 
 ## 🔗 Aperçu en ligne
 
-👉 [Cliquez ici pour visiter le site](https://saiftriki.github.io/portfolio-v1/){:target="_blank" rel="noopener"}
+👉 [visiter le site](https://saiftriki.github.io/portfolio-v1/)
 
 
 ## 📌 Objectif de ce projet 
